@@ -4,3 +4,4 @@ astroML
 scipy
 astropy
 matplotlib
+astropy
